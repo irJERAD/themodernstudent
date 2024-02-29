@@ -1,4 +1,4 @@
 ---
-title: Contact Me
-breadcrumb: Contact
+title: Where You Can Find Me
+breadcrumb: Base
 ---

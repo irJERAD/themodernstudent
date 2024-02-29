@@ -1,5 +1,5 @@
 ---
-title: You must know this before becoming a designer
+title: "So, You Are a Teenager and You Know Everything. What to Do Now?"
 date: 2020-07-13T12:49:27.000+06:00
 featureImage: images/allpost/allPost-8.jpg
 postImage: images/single-blog/feature-image.jpg

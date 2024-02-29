@@ -1,5 +1,5 @@
 ---
-title: "Designer Conference at Florida 2020"
+title: "Where is the Classroom in the Age of Zoom?"
 date: 2020-07-13T13:06:26+06:00
 featureImage: images/allpost/allPost-2.jpg
 postImage: images/single-blog/feature-image.jpg

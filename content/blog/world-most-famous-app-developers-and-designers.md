@@ -1,5 +1,5 @@
 ---
-title: "World's Most Famous App Developers and Designers"
+title: "There Are Some Glaring Misconceptions About Education"
 date: 2020-07-13T12:49:27+06:00
 featureImage: images/allpost/allPost-1.jpg
 postImage: images/single-blog/feature-image.jpg

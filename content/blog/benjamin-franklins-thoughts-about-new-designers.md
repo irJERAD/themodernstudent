@@ -1,5 +1,5 @@
 ---
-title: "Benjamin Franklins thoughts about new designers"
+title: "Does Technology Help or Hinder Education?"
 date: 2020-07-13T12:49:27+06:00
 featureImage: images/allpost/allPost-7.jpg
 postImage: images/single-blog/feature-image.jpg

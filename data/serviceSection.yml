@@ -1,5 +1,5 @@
 ---
-enable: false
+enable: true
 topTitle: Working Area
 title: >
   ## Who, exactly, is The Modern Student for?
@@ -10,38 +10,53 @@ title: >
 
 service:
   - content: >
-      #### UI/UX Design 
+      #### Common Core State Standards
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
-      tempor invidunt ut labore et dolore magna aliquyam erat.
+      What is this whole Common Core thing about anyways?
+      I mean we all get the idea, right? Teach kids at one school the same as they teach them at another school - standardize the education process for K-12. 
+      But why does it feel absurdly well.. different. Can't kids learn the same way we did? 
+      "Its much simpler / more intuitive / easier" you insert the adjective that compares how you learned long division compared with how they want your child to learn it now.
+
+      *I will keep this motivation short:* Thing is, Common Core is now **The System**. 
+      Its the way your children will start their academic careers in K-12
     image: images/service/ui-ux.svg
   - content: >
-      #### Web Development 
+      #### Coaching Student Self-Advocacy
 
       Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
       tempor invidunt ut labore et dolore magna aliquyam erat.
     image: images/service/web.svg
   - content: >
-      #### Creative Design 
+      #### Education Paradigm Shift(s)
 
       Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
       tempor invidunt ut labore et dolore magna aliquyam erat.
     image: images/service/creative.svg
   - content: >
-      #### Branding
+      #### Relationships with Students and Children
 
       Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
       tempor invidunt ut labore et dolore magna aliquyam erat.
     image: images/service/branding.svg
   - content: >
-      #### UI/UX Design
+      #### Beyond K-12
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
-      tempor invidunt ut labore et dolore magna aliquyam erat.
+      Too many students - particularly those who do not count a college graduate among their close relatives - are not thinking about college early enough.
+      When is early enough to think about life after k-12?
+      We all know someone who dresses their baby in the outfits of Harvard, Yale, or their alma mater.
+      And I suppose it would be financially prudent for parents to be thinking about college as soon as their child exits the womb.
+      I strongly believe students should be thinking about college by 7th grade.
+      They need time to learn about the many locations, envision themselves living in another part of the country.
+      The earlier students start to consider which subjects they may want to explore further at a collegiate level, the more developed and evolved their sense of what is right for them will be.
+      The most common reason I hear for students not going to college after their senior year of high school is that they *"Don't know what [they] want to do"*.
+      Now think what a difference preparing for this transition earlier on in life would make in these student's lives?
+      
     image: images/service/ui-ux.svg
   - content: >
-      #### Web Development
+      #### Inspire Enthusiasm Garner Investment
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
-      tempor invidunt ut labore et dolore magna aliquyam erat.
+      We can help students see education under a different light. 
+      Really, their school, classes, teachers, and even homework are all created and managed for their unique benefit.
+      When a student can perceive how self-serving the entire education system is to them, they can free themselves from the trapped waist of time perspective they may have previously maintained.
+      Things really turn up when we get students to see their academic careers as a vehicle which they manage and is capable of taking them anywhere in life, even as far as their dreams.
     image: images/service/web.svg

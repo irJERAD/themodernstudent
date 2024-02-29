@@ -1,5 +1,5 @@
 ---
-title: "How to become acreative designer"
+title: "Where Does Creativity Fit Into the Classroom?"
 date: 2020-07-13T12:49:27+06:00
 featureImage: images/allpost/allPost-9.jpg
 postImage: images/single-blog/feature-image.jpg

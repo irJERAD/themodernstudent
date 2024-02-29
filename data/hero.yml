@@ -1,13 +1,25 @@
 ---
 enable: true
-topTitle: Hello, I am Natasha
+topTitle: Hello, My name is Jerad
 content: >
-  # I am here for your personal business
+  # This site was created to serve Students, Teachers, and Parents
 
-  Enjoy team diversity and increase their networks among others people
-  in various fields by
-buttonName: Contact me
+  ## Here some goals I have:
+  
+  - help students explore and success in their academic careers
+  - Work with Teachers in tackling Today's classroom.
+    - How to adopt new technologies as well as best practices
+    - Core concepts to coaching student self-advocacy
+    - And I would love to learn from any of you with experience, ideas, or opinions on the topics brought up on this site
+  - Serve as a useful source of support to parents that
+    - May be experiencing a hard time translating their experience in school to related to their kids
+    - Provides tools and advice for connecting with your children across the span of their academic career (from kindergarten to college and beyond)
+    - Help decode the language and concepts that the modern classroom operate around (from topics like Common Core to events like college applications and the admissions process)
+  
+
+  Let's continue the discussion about what this site can do for you. I encourage anyone curious to:
+buttonName: Contact Me
 buttonURL: contact
 image: images/hero/2960351.jpg
 videoThumb: images/hero/popup-thumb.png
-videoURL: https://www.youtube.com/watch?v=dQw4w9WgXcQ
+videoURL: https://youtu.be/wh0OS4MrN3E?si=nbZPycs_IGe_VT_w

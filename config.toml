@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://themodernstudent.jerad.xyz"
 languageCode = "en-us"
 paginate = 6
 theme = "portio"

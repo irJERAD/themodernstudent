@@ -1,11 +1,13 @@
 ---
-enable: true
+enable: false
 topTitle: Working Area
 title: >
-  ## Creative Services
+  ## Who, exactly, is The Modern Student for?
 
-  Enjoy team diversity and increase their networks among others people in
-  various fields by provided.
+  The Modern Student - despite having the title "Student" in its name - was created specifically for Students (yes), Teachers, and Parents *(parents play a critical role in their children's academic careers)*
+  The site is intended to host a set of tools, a platform, and a place to go for understanding or new ideas in this new world of education.
+
+
 service:
   - content: >
       #### UI/UX Design 

@@ -2,16 +2,16 @@
 enable: true
 topTitle: My Skills
 content: >
-  ## Why hire me for your next project?
+  ## Why give this stuff any of your valuable time?
 
-  My goal is to build a strong supportive professional network among all freelancers and startups in order to improve their performance.
+  In building and maintaining this site, its content, and perhaps a community someday, I have dedicated myself to sharing resources and insights into the modern classroom and what a student must do to have success there.
 
 image: images/skill/skill_image.jpg
 
 skill:
-  - title: HTML
-    percent: 69
-  - title: CSS
-    percent: 60
-  - title: Javascript
+  - title: Education Management
+    percent: 90
+  - title: Teaching
     percent: 85
+  - title: Studying
+    percent: 75

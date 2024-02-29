@@ -2,19 +2,27 @@
 enable: true
 topTitle: About
 title: >
-  ## About me
+  ## About The Modern Student
 
-  Enjoy team diversity and increase their networks among others people in
-  various fields by provided.
+  **Simply:** This project was built out of a passion for what I love - Education - and what I find purpose in - Service.
+  So, it is my greatest hope that somehow any of the information, articles, suggestions, thoughts or opinions shared here might become useful or instrumental in any way what-so-ever.
+  Now, I do write, share, and craft pieces here with an idea of how and when you should apply them to your life, your classroom, or your relationship with your student-child.
+  But by no means must you confine the application of whatever inspiration you receive here.
+  Really we just want to get this conversation going, if you have not already started it. 
+  And if you have started this conversation, good on ya, let's keep it going and get others involved.
+
+  ## About Me
+
+  There is really nothing special here. I love education. I love learning. And I LOVE teaching.
+  Nothing feels so fulfilling as helping someone that is in dire need of understanding something - be it for a test, for their ability to go about their days a little better, or what is really fun is when someone needs a nudge to get them past their next paradigm shift (those wide open eyes..)
+
 content: >
-  ### I design and build ultimate things.
+  ### I help underserved high school students find pleasure in their academic triumphs as they go on to college
 
-  I love to work in User Experience & User Interface designing. Because I love
-  to solve the design problem and find easy and better solutions to solve it. I always
-  try my best to make good user interface with the best user experience. I have been
-  working as a Visual designer from.
-button1Name: Hire me
-button2Name: Download CV
+  I have been unimaginably fortunate and grateful to have spent the last couple of year working with East Palo Alto Tutoring and Tennis [EPATT](https://www.epatt.org/)
+  
+button1Name: My Work
+button2Name: Other Stuff
 button1Target: contact
 button2Target: contact
 image: images/about/about-img.jpg

@@ -2,7 +2,7 @@ baseURL = "http://example.org/"
 languageCode = "en-us"
 paginate = 6
 theme = "portio"
-title = "Portio"
+title = "The Modern Student"
 # Main Menu
 [[menu.main]]
 name = "Home"
@@ -13,27 +13,27 @@ name = "About"
 url = "#about"
 weight = 2
 [[menu.main]]
-name = "Service"
+name = "Who"
 url = "#service"
 weight = 3
 [[menu.main]]
-name = "Together"
+name = "Projects"
 url = "#portfolio"
 weight = 4
 [[menu.main]]
-name = "Resume"
+name = "History"
 url = "#resume"
 weight = 5
 [[menu.main]]
-name = "Skills"
+name = "Assets"
 url = "#skills"
 weight = 6
 [[menu.main]]
-name = "Blog"
+name = "Ideas"
 url = "#blog"
 weight = 7
 [[menu.main]]
-name = "Contact"
+name = "Let's Collaborate"
 url = "#contact"
 weight = 8
 
